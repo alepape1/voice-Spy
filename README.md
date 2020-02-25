@@ -3,17 +3,19 @@
 Voice Spy is a conversation listerner, the software is listening people speaking by your default microphone on your device,
 depending of characteristics of somes keywords.
 
-#Dependecies
+# Dependecies
 
-pip install pyaudio
+```python
 pip install wave
 pip install speech_recognition
 pip install subprocess
 pip install webbrowser
+```
 
-#How to run
+# How to run
 
+```python
 python main.py
-
+```
 
 
